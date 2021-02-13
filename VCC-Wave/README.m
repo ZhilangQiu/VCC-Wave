@@ -5,8 +5,8 @@
 % =====================================================================================
 Matlab source code of all reconstructions to reproduce the results as described in:
 
-Qiu Z, Jia S, Su S, Zhu Y, Liu X, Zheng H, Wang H, Liang D.
-“Combining virtual conjugate coil reconstruction and wave encoding for improved parallel MRI”
+Qiu Z, Jia S, Su S, Zhu Y, Liu X, Zheng H, Liang D, Wang H.
+“Highly Accelerated Parallel MRI Using Wave Encoding and Virtual Conjugate Coils”
 Magn Reson Med. 2021;
 
 
@@ -40,3 +40,5 @@ The source code is implemented or modified based on the following external packa
 % =====================================================================================
 (c) Zhilang Qiu, 2021, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences
 Emails: zhilangqiu@gmail.com / zl.qiu@siat.ac.cn
+
+
