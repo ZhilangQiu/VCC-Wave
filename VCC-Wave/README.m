@@ -39,6 +39,6 @@ The source code is implemented or modified based on the following external packa
 % Contact info
 % =====================================================================================
 (c) Zhilang Qiu, 2021, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences
-Emails: zhilangqiu@gmail.com / zl.qiu@siat.ac.cn
+Emails: zhilangqiu@gmail.com
 
 
